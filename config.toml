@@ -1,5 +1,5 @@
 title = "VBC"
-baseURL = "/"
+baseURL = "https://vbccorp.netlify.app/"
 languageCode = "en-us"
 theme = "ananke"
 resourceDir = "../resources"
